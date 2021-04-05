@@ -27,7 +27,7 @@
 ###### A result from the bioPthon program
 
 ```
-    atttggctacatttcacagtattcactgagactcattgatgctatgatgttcacatctg----------
+atttggctacatttcacagtattcactgagactcattgatgctatgatgttcacatctg----------
 |          ||||||||||||||||||||||||||||||||||||||||||||||||
 a----------tttcacagtattcactgagactcattgatgctatgatgttcacatctgatttggctac
   Score=49
