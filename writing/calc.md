@@ -24,11 +24,11 @@ a)
 
 
 b)
-- Match or Mismatch:               
-- Left entry calculation:          
-- Above entry calculation:         
-- Diagonal entry calculation:      
-- Max score: 1 from the Diagonal   
+- Match or Mismatch:    T != A is a mismatch           
+- Left entry calculation:      1 - 1 = 0    
+- Above entry calculation:     -2 - 1 = -3
+- Diagonal entry calculation:      -1 - 0 = -1
+- Max score: 0 from the Left   
 
 
 c)
