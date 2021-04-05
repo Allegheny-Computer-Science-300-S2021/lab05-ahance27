@@ -66,11 +66,11 @@ a----------tttcacagtattcactgagactcattgatgctatgatgttcacatctgatttggctac
 
 #### Screenshots:
 
-![Screenshot](images/Alignment_Vietnam_China.JPG)
+![Screenshot](images/Alignment_Vietnam_China.jpg)
 
-![Screenshot](images/Alignment_Vietnam_HongKong.JPG)
+![Screenshot](images/Alignment_Vietnam_HongKong.jpg)
 
-![Screenshot](images/Alignment_China_Hongkong.JPG)
+![Screenshot](images/Alignment_China_Hongkong.jpg)
 
 
 
