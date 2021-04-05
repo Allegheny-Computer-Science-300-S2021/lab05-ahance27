@@ -26,12 +26,12 @@
 
 ###### A result from the bioPthon program
 
-    ```
+```
     atttggctacatttcacagtattcactgagactcattgatgctatgatgttcacatctg----------
 |          ||||||||||||||||||||||||||||||||||||||||||||||||
 a----------tttcacagtattcactgagactcattgatgctatgatgttcacatctgatttggctac
   Score=49
-    ```
+```
 
 
 
