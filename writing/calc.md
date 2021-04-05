@@ -1,4 +1,4 @@
-#### Name: Add Your Name Here
+#### Name: Andre Hance
 #### Date: 29 March 2021
 #### What this is: Calculations from the manual work out of the Needleman-Wunsch algorithm.
 
@@ -24,43 +24,43 @@ a)
 
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               
+- Left entry calculation:          
+- Above entry calculation:         
+- Diagonal entry calculation:      
+- Max score: 1 from the Diagonal   
 
 
 c)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               
+- Left entry calculation:          
+- Above entry calculation:         
+- Diagonal entry calculation:      
+- Max score: 1 from the Diagonal   
 
 
 d)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               
+- Left entry calculation:          
+- Above entry calculation:         
+- Diagonal entry calculation:      
+- Max score: 1 from the Diagonal   
 
 
 e)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               
+- Left entry calculation:          
+- Above entry calculation:         
+- Diagonal entry calculation:      
+- Max score: 1 from the Diagonal   
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               
+- Left entry calculation:          
+- Above entry calculation:         
+- Diagonal entry calculation:      
+- Max score: 1 from the Diagonal   
 
 
 
