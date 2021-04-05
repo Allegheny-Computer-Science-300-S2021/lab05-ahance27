@@ -23,6 +23,8 @@
 
     * There are a lot of results that look very similar to this one, and its visible that the uninterrupted segments in show a large section of sequence identical between the two.
 
+
+
     ```
     atttggctacatttcacagtattcactgagactcattgatgctatgatgttcacatctg----------
 |          ||||||||||||||||||||||||||||||||||||||||||||||||
