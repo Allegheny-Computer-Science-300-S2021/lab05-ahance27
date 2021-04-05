@@ -40,11 +40,11 @@ c)
 
 
 d)
-- Match or Mismatch:               
-- Left entry calculation:          
-- Above entry calculation:         
-- Diagonal entry calculation:      
-- Max score: 1 from the Diagonal   
+- Match or Mismatch:      T = T is a match        
+- Left entry calculation:      0 - 1 = -1    
+- Above entry calculation:       0 - 1 = -1  
+- Diagonal entry calculation:      1 + 1 = 2
+- Max score: 2 from the Diagonal   
 
 
 e)
